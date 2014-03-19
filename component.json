@@ -1,0 +1,11 @@
+{
+  "name": "thunkify",
+  "version": "0.0.1",
+  "repo": "mciparelli/node-thunkify",
+  "description": "Turn callbacks, arrays, generators, generator functions, and promises into a thunk",
+  "keywords": ["thunk", "co", "generator", "generators", "promise"],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
